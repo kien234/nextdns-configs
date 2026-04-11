@@ -3,17 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>Locket_vnkien26 (ae9ab8)</string>
+    <string>Locket_vnkien26 (None)</string>
     <key>PayloadDescription</key>
     <string>File chặn cấu hình thu hồi locketgold vui lòng không bật các app vpn hoặc tắt cấu hình nếu bật xin vui lòng thoát khỏi ứng dụng locket</string>
     <key>PayloadIdentifier</key>
-    <string>io.nextdns.ae9ab8.profile</string>
+    <string>io.nextdns.None.profile</string>
     <key>PayloadScope</key>
     <string>System</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.ae9ab8</string>
+    <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.None</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -24,7 +24,7 @@
           <key>DNSProtocol</key>
           <string>HTTPS</string>
           <key>ServerURL</key>
-          <string>https://apple.dns.nextdns.io/ae9ab8</string>
+          <string>https://apple.dns.nextdns.io/None</string>
         </dict>
         <key>OnDemandRules</key>
         <array>
@@ -57,11 +57,11 @@
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadIdentifier</key>
-        <string>io.nextdns.ae9ab8.profile.dnsSettings.managed</string>
+        <string>io.nextdns.None.profile.dnsSettings.managed</string>
         <key>PayloadUUID</key>
-        <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.ae9ab8.dnsSettings.managed</string>
+        <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.None.dnsSettings.managed</string>
         <key>PayloadDisplayName</key>
-        <string>Locket_vnkien26 (ae9ab8)</string>
+        <string>Locket_vnkien26 (None)</string>
         <key>PayloadOrganization</key>
         <string>Locket_vnkien26</string>
         <key>PayloadVersion</key>
